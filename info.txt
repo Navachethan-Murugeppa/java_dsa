@@ -1,0 +1,18 @@
+Types of algorithms:
+i. Simple recursive algorithms eg: recursion
+ii. divide and conquer algorithms eg: sorting algorithms
+iii. Dynamic programming algorithms eg: 
+iv. Greedy algorithms 
+v. Brute force algorithms
+vi. Randomized algorithms
+
+Algorithm notations
+
+
+Data structure:
+
+1. Arrays:
+
+Types of arrays: 1D and multi dimensional arrays 
+
+memory for array are allocated contiguously 
