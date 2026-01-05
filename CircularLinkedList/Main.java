@@ -12,6 +12,14 @@ public class Main {
         cll.InsertinCLL(5, 0);
         cll.InsertinCLL(15, 2);
 
+        cll.traverseCLL();
+        cll.deleteNodeCLL(1);
+        cll.deleteNodeCLL(0);
+        cll.deleteNodeCLL(2);
+        cll.deleteNodeCLL(3);
+
+        cll.traverseCLL();
+
         
     }
     
